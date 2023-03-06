@@ -1,4 +1,4 @@
-# Introdution
+# Introdution.
 ---------------------------------------
 - 👋 Hi, I’m KyeongChan Kim(김경찬).
 - 🏫 I'm studying at a Hallym university!
